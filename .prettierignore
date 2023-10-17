@@ -1,0 +1,12 @@
+# See https://prettier.io/docs/en/ignore for usage
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
